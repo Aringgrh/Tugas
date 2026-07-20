@@ -27,7 +27,7 @@ void namaBerulang (){
 }
 
 void perulanganList(){
-  List<String> buah = ["Apel", "Jeruk", "Mangga", "Amggur"];
+  List<String> buah = ["Apel", "Jeruk", "Mangga", "Anggur"];
 
   for ( var b in buah){
        print("Saya Suka Buah $b");
